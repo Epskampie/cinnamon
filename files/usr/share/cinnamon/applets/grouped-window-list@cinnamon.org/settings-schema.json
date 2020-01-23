@@ -123,7 +123,8 @@
     "options": {
       "None": 1,
       "Toggle activation of last focused window": 2,
-      "Cycle windows": 3
+      "Cycle windows": 3,
+      "Activate, then cycle": 4
     }
   },
   "middle-click-action": {
