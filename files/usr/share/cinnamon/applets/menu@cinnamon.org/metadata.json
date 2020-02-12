@@ -1,7 +1,7 @@
 {
- "uuid": "menu@cinnamon.org",
- "name": "Menu",
- "description": "Main Cinnamon menu",
+ "uuid": "menu@epskampie",
+ "name": "Menu Epskampie",
+ "description": "Main Cinnamon menu Epskampie",
  "icon": "applications-other",
  "max-instances": -1
 }
